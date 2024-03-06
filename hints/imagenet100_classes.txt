@@ -1,0 +1,100 @@
+12	n01532829	house finch
+15	n01558993	American robin
+51	n01704323	triceratops
+64	n01749939	green mamba
+70	n01770081	harvestman
+96	n01843383	toucan
+99	n01855672	goose
+107	n01910747	jellyfish
+111	n01930112	nematode
+121	n01981276	red king crab
+149	n02074367	dugong
+166	n02089867	Treeing Walker Coonhound
+173	n02091244	Ibizan Hound
+176	n02091831	Saluki
+207	n02099601	Golden Retriever
+214	n02101006	Gordon Setter
+228	n02105505	Komondor
+242	n02108089	Boxer
+244	n02108551	Tibetan Mastiff
+245	n02108915	French Bulldog
+249	n02110063	Alaskan Malamute
+251	n02110341	Dalmatian
+256	n02111277	Newfoundland dog
+266	n02113712	Miniature Poodle
+270	n02114548	Alaskan tundra wolf
+275	n02116738	African wild dog
+279	n02120079	Arctic fox
+291	n02129165	lion
+299	n02138441	meerkat
+301	n02165456	ladybug
+306	n02174001	rhinoceros beetle
+310	n02219486	ant
+359	n02443484	black-footed ferret
+364	n02457408	three-toed sloth
+392	n02606052	rock beauty fish
+403	n02687172	aircraft carrier
+412	n02747177	trash can
+427	n02795169	barrel
+440	n02823428	beer bottle
+454	n02871525	bookstore
+471	n02950826	cannon
+476	n02966193	carousel
+478	n02971356	cardboard box / carton
+484	n02981792	catamaran
+494	n03017168	bell or wind chime
+502	n03047690	clogs
+503	n03062245	cocktail shaker
+507	n03075370	combination lock
+519	n03127925	crate
+524	n03146219	cuirass
+533	n03207743	dishcloth
+538	n03220513	dome
+546	n03272010	electric guitar
+553	n03337140	filing cabinet
+556	n03347037	fire screen
+567	n03400231	frying pan
+569	n03417042	garbage truck
+584	n03476684	hair clip
+597	n03527444	holster
+602	n03535780	gymnastic horizontal bar
+604	n03544143	hourglass
+605	n03584254	iPod
+629	n03676483	lipstick
+655	n03770439	miniskirt
+657	n03773504	missile
+659	n03775546	mixing bowl
+683	n03838899	oboe
+687	n03854065	pipe organ
+702	n03888605	parallel bars
+709	n03908618	pencil case
+713	n03924679	photocopier
+735	n03980874	poncho
+741	n03998194	prayer rug
+758	n04067472	fishing casting reel
+779	n04146614	school bus
+781	n04149813	scoreboard
+800	n04243546	slot machine
+801	n04251144	snorkel
+807	n04258138	solar thermal collector
+815	n04275548	spider web
+819	n04296562	stage
+847	n04389033	tank
+854	n04418357	front curtain
+858	n04435653	tile roof
+860	n04443257	tobacco shop
+880	n04509417	unicycle
+881	n04515003	upright piano
+883	n04522168	vase
+909	n04596742	wok
+912	n04604644	split-rail fence
+914	n04612504	sailboat
+919	n06794110	traffic or street sign
+925	n07584110	consomme
+927	n07613480	trifle
+934	n07697537	hot dog
+950	n07747607	orange
+972	n09246464	cliff
+973	n09256479	coral reef
+997	n13054560	bolete
+998	n13133613	corn cob
